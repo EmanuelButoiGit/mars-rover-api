@@ -3,6 +3,7 @@
 This API will fetch images from different rovers.
 
 This project was created with the help of Udemy courses.
+
 Don't forget to change the database user and password for your database.
 
 Happy coding :)!
